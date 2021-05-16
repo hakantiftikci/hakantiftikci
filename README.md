@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hakantiftikci
-- 👀 I’m interested in Python, Fortran, Simulation of Dynamical Systems
+- 👀 I’m interested in Python, Fortran, Computer Graphics, Simulation of Dynamical Systems
 - 🌱 I’m currently trying to learn javascript, Modern OpenGL, ... 
 - 💞️ I’m looking to collaborate on numerical methods, visualization, simulation projects
 - 📫 How to reach me ... :arrow_right: htiftik@yahoo.com
